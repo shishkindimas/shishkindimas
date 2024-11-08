@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dima</h1>
 <h3 align="center">A passionate developer from Russia</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, HTTP and JS**
 
 - 📫 How to reach me **dimash0106@gmail.com**
 
