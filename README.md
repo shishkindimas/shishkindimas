@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dimash0106@gmail.com**
 
-<h3 align="left">Connect with me: shishkea on Discord ; @shishkn on Telegram</h3>
+<h3 align="left">Connect with me: @shishkn on Telegram</h3>
 <p align="left">
 </p>
 
